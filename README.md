@@ -47,9 +47,12 @@ The proposed method demonstrates significant improvements compared to state-of-t
 
 ---
 
-@inproceedings{your2025cros,
+```bibtex
+@inproceedings{rodrigues2025cros,
   title={Low-Light Image Quality Enhancement through Bayesian Optimization using Gaussian Processes},
-  author={Your Name et al.},
-  booktitle={CROS},
+  author={Gabrielly F. Rodrigues and Alex B. S. Viana and Laura A. Martinho and João M. B. Cavalcanti and José L. S. Pio and Felipe G. Oliveira},
+  booktitle={CROS-Brazilian Conference on Robotics},
   year={2025}
 }
+
+
