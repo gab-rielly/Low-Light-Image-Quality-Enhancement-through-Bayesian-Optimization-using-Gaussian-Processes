@@ -5,7 +5,6 @@ This repository contains the source code for our paper:
 **"Low-Light Image Quality Enhancement through Bayesian Optimization using Gaussian Processes"**,  
 accepted for presentation at **CROS 2025**.
 
----
 
 ## Overview
 
@@ -21,7 +20,6 @@ This project proposes a novel approach that improves low-light image quality by 
 
 The optimal parameters for these operations are determined using **Bayesian Optimization with Gaussian Processes**, ensuring robust and efficient processing.
 
----
 
 ## Dataset
 
@@ -30,7 +28,6 @@ We used the **Low-Light paired dataset (LOL)** for training and evaluation:
 - **Training set:** `our485`  
 - **Evaluation set:** `eval15`
 
----
 
 ## Metrics
 
@@ -45,7 +42,6 @@ The quality of enhanced images is evaluated using:
 
 The proposed method demonstrates significant improvements compared to state-of-the-art techniques.
 
----
 
 ```bibtex
 @inproceedings{rodrigues2025cros,
